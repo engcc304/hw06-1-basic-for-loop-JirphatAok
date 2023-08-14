@@ -39,12 +39,13 @@ int main() {
     
     for ( i = 1; i <= Num; i++) {
         if (Num % 2 == 0) {
-            printf( "(%d) Hello Worl\n",i) ;
+            printf( "(%d) Hello World\n",i) ;
         }
         else
             printf( "[%d] Hello World\n",i) ;
         }
     return 0 ;
     }
+
 
 
